@@ -1,0 +1,36 @@
+<style>
+		
+		title-h1{
+			display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+		}	
+
+		table{
+			max-width:;
+		}
+		span{
+		background-color: #f0e6d6;
+		}
+		kbd{
+			background-color: #eadcea;
+		}
+		samp{
+			background-color: #eadcdc;
+		}
+		code{
+			background-color: #f0e6d6;
+		}
+		.line{
+			border-left: 3px solid #b496b4;
+    		padding-left: 10px;
+    		margin-left: 3px;
+		}
+		pre{
+			background-color: #f0e6d6;
+		}
+	</style>
